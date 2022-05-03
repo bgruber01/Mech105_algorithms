@@ -8,4 +8,5 @@ Outputs:
 * L = lower triangular matrix
 * U = upper triangular matrix
 * P = the permutation matrix
+
 Limitations: If the number of rows is not equal to the number of columns (not square matrix) then LU Decopm cannot be performed. 
