@@ -11,4 +11,4 @@ Outputs:
 
 Limitations: 
 * If the length of x is not equal to the length of y = invlaid inputs sizes 
-* If a function is highly oscillatory or lacks derivatives at certain points, then the above rule may fail to produce accurate results. If this is the case, then a composite Simpsns rule might be necessary to compute the integral. 
+* If a function is highly oscillatory or lacks derivatives at certain points, then the above rule may fail to produce accurate results. If this is the case, then a composite Simpsons rule might be necessary to compute the integral. 
