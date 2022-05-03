@@ -3,10 +3,12 @@ The Linear Regression algorithm is based on supervised learning. It performs a r
 The algorithm then sets interquartile ranges based on the date and then uses these interquartile ranges to check for any outliers in the data set. If outliers are found they are thrown out of the data set. 
 The algorithm then computes linear regression value using the linear regression formula. 
 The Y-intercept of the regression line is then computed using the mean of y-values and mean of the slope of the regression line. 
-Finally the R^2 value is calculated to determine the accuracy of the regression line computed. 
+Finally the R^2 value is calculated to determine the accuracy of the regression line computed
+
 Inputs:
 * array of x values
 * Array of y values
+
 Outputs: 
 * A1 (value of slope of regression line)
 * A0 (Y-intercept of regression line)
