@@ -5,6 +5,7 @@ An LU factorization refers to the factorization of A, with proper row and/or col
 
 Inputs: 
 * A = coefficients of square matrix 
+
 Outputs: 
 * L = lower triangular matrix
 * U = upper triangular matrix
